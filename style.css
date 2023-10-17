@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Center text inside col-3 divs */
+.col-3 {
+    text-align: center;
+}
+
+/* Add some spacing between rows and columns */
+.row {
+    margin-bottom: 10px;
+    
+}
+
+/* Apply a border and padding to images */
+img {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Style the container for better readability */
+.container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+}
+#a1, #a2{
+    background-color: rgb(248, 173, 12);
+    height: 48.7%;
+    align-items: center;
+}
+
+
+#b1{
+    background: rgb(249, 255, 192);
+    text-shadow: 2px 2px 4px #9000ff;
+}
+
